@@ -1,1 +1,1 @@
-# E-T-M-NCES-UYGULAMALARI
+#Egitimoncesiuygulamaları
